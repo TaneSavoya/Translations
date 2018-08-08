@@ -1,0 +1,59 @@
+1	***Otsikko***
+1.1	Tietoja - Lataukset - Tiekartta - Tuki
+1.2	Salattu monivara lompakko
+1.3	Julkaisutiedot - For - bit - Lataa - Toiset alustat
+
+2	***Lyhyesti***
+2.1	Salattu monivaralompakko (Multi-asset Encrypted wallet) - ZelTreZ pitää varasi turvassa. Tuki 15 eri kolikolle:  Zelcash (ZEL), Bitcoin (BTC), Litecoin (LTC), Ethereum (ETH), Zcash (ZEC), BitcoinZ (BTCZ), Hush (HUSH), Ravencoin (RVN), Binance (BNB), BitCore (BTX), 0x (ZRC), OmiseGO (OMG), Zilliqa (ZIL), Basic Attention Token (BAT), Golem (GNT).
+2.2	Tuki useille tileille - Kirjautumisjärjestelmämme avulla sinulla on useita salattuja lompakoita ja tilejä samalla tietokoneella.
+2.3	Kevyt Noodi vai täysi Noodi. Päätös on sinun. - ZelTreZ antaa sinun valita, haluatko nopeuden vai kehittyneitä ominaisuuksia. Kaikki kolikot ovat saatavilla kevyinä noodeina, ja ne voivat ladata myös täyden noodin, jos tarvitset kehittyneitä ominaisuuksia, kuten suojattuja osoitteita, olemassa olevien lompakkojen palauttamisen ja paljon muuta.
+2.4	Katso esitys
+
+3	***Yhteydenotto***
+3.1	Tarvitsetko apua? Vastaamme niin pian kuin mahdolllista - Ota yhteyttä
+3.2	Jutellaan - Liity Discord palvelimeemme
+
+4	***Alatunniste***
+4.1	Kaikki oikeudet pidätetään
+
+5	***Tiekartta***
+5.1	Toukokuu - Julkaisu
+5.2	Elokuu - Mobiili - Nettiversio
+5.3	Seuraa päivityksiämme
+
+6	***Tuki***
+6.1	Usein kysyttyjä kysymyksiä
+6.2	Mitä kolikoita ZelTreZissä tuetaan? - Versiosta 1.0.0 lähtien tuemme seuraavia kolikoita: Zelcash (ZEL), Bitcoin (BTC), Litecoin (LTC), Ethereum (ETH), Zcash (ZEC), BitcoinZ (BTCZ), Hush (HUSH) ja Ravencoin (RVN).
+6.3	Mikä on Portfolio painike? - Portfoliosta näet kaikki ZelTreZin tukemat kolikot ja rahakkeet. Painamalla kolikon kuvaketta pääset kolikon toimintasivulle.
+6.4	Näen yhteystietoja, kun napsautan kolikkoa, mitä ne ovat? - Ne ovat tallennetut osoitteet. Kolikoissa, joissa on zk-SNARKS ominaisuus, voit käyttää sekä Z-Osoitetta (Suojattu) tai T-Osoitetta (Läpinäkyvä) tallennettuna yhtystietoihisi.
+6.5	Mikä on Suojattu Osoite? - Suojattu Osoite mahdollistaa anonyymit/yksityiset siirrot zk-SNARKSia käyttämällä. Kaikki siirrot, jotka lähetetään ja vastaanotetaan ovat näkymättömiä kyseisen kolikon Siirtoselaimessa.
+6.6	Mikä on Täysi Noodi? - Jos haluat valita Täyden Noodin, Zeltrez lataa täyden kopion kyseisen kolikon lohkoketjusta. Tätä suositellaan vain käyttäjille, jotka haluavat käyttää yksityisiä Z-Osoitteita. Täysi Noodi käyttää ylimääräisiä systeemiresursseja keskusyksiköltä ja tallennuslevyltä, ja on siten hitaampi käyttää ja ladata kuin Kevyt Noodi.
+6.7	Täytyykö minun ladata Täysi Noodi jokaiselle kolikolle? - Vain jos haluat käyttää edistyneitä toimintoja, kuten olemassa olevan Yksityisen Avaimen Tuonti tai Lohkoketjun Uudelleen Skannaus tuodaksesi olemessa olevan lompakon eri lompakkosovelluksesta ZelTreZiin.
+6.8	Miksi 'todennusavainten' lataus kestää niin kauan? - Todennusavainten lataus voi kestää kauan hitaalla internetyhteydellä. 
+6.9	Minulla tulee seuraava virheilmoitus: sprout-varmennusavaimen lataus epäonnistui, kuinka korjaan sen? - Sulkemalla ja uudelleen käynnistämällä Zeltrezin.
+6.10	Mitä ovat Yhteydet, Korkeus ja Ylätunnus? Yhteydet näyttävät, kuinka monta vertaisverkkoyhteyttä olet muodostanut muihin Täysiin Noodeihin. Mitä useampi yhteys sinulla on käytössäsi, sitä nopeammin lohkoketju latautuu. Korkeus näyttää lataustilanteesi, kun Korkeus ja Ylätunnus ovat samat, Tahdistus on 100% eli lohkoketju on kokonaan ladattu.
+6.11	Kuinka montaa Yhteyttä voi pitää hyvänä lukemana? - Yleensä voit nähdä 2-7 Yhteyttä. Yli 5 Yhteyttä voi pitää jo hyvänä lukemana.
+6.12	Miksi käynnistäessäni Täyden Noodin lompakon Tahdistusprosentti nousee liian hitaasti? - Lohkoketjut ladataan Täysien Noodien vertaisverkosta. Enemmän Täysiä Noodeja tarkoittaa enemmän yhteyksiä ja siten nopeampaa tahdistusnopeutta. Zelcashiin liittyvä ZelNodes julkaistaan vuoden 2018 kolmannella-neljännellä vuosineljänneksellä, jolloin voimme odottaa tahdistusnopeuden kasvavan.
+6.13	Kuinka voin vaihtaa oletusvaluutan USD:stä BTC:hen tai johonkin muuhun valuuttaan? - Klikkaa Profiiliasi ja valitse haluamasi valuutta pudotusvalikosta.
+6.14	Kuinka voin lisätä kuvan Profiiliini? - Klikkaa Profiiliasi ja sen jälkeen klikkaa ylhäällä sijatsevaa symbolia vaihtaaksesi profiilikuvasi.
+6.15	Kuinka voin nähdä ZelTeZin yksityisen avaimen, salausavaimen tai WIF-avaimen aktivoidulle kolikolle? - Löydät omat yksityiset avaimesi klikkaamalla Profiiliasi.
+6.16	Kuinka voin luoda monta tiliä? - Voit luoda uuden tilin aloitussivulta kirjautumisen alapuolelta.
+6.17	Kuinka voin tuoda aiempia lompakkojani muista sovelluksista? - Sinun täytyy aktivoida Täysi Noodi kolikolle, jonka haluat tuoda ja sitten valita Työkalut > Tuo Yksityinen Avain ja/tai Uudelleen Skannaa Lohkoketju.
+6.18	Mitä lohkoketjun uudeleen skannaus tarkoittaa? - ZelTreZ voi siten löytää kaikki yksityisen avaimesi sisältämät varat lohkoketjusta.
+6.19	Mikä on yksityinen avain? - Se on avain, jolla pääset käsiksi varoihisi. Jos kadotat sen, hävität käytännössä pääsyn varoihisi. Kohtele avaintasi kuin avainta asuntoosi, huolehdi siitä ja tee siitä kopioita, joita säilytät turvallisessa paikassa.
+6.20	Mikä on suojattu avain? - Se on avain, jota ZelTreZ käyttää salaamaan lompakkojasi. Kun luot tilisi syöttämällä käyttäjätunnuksesi ja salasanasi, Zeltez ottaa salasanan ja luo siitä salasanan jatkeen. Seuraavaksi Zeltrez ottaa käyttäjätunnuksesi ja luo siitä uuden salasanan jatkeen. Saatu arvo (SHA256 hash) on salausavaimesi. Salausavainta käytetään salaamaan sekä contacts.json tiedostoa, että wallet.dat tiedostoa AES-256-CTR algoritmilla. Kun käyttäjä valitsee kolikon Täydessä Noodissa ensimmäistä kertaa, Zeltrez käyttää kolikon oletuspolkua ja lukee wallet.dat tiedoston. Jos wallet.dat tiedosto on jo olemassa ja sitä ei ole ennen käytetty ZelTreZissa, ZelTreZ luo varmuuskopio (wallet.datVARMUUSKOPIO_KÄYTTÄJÄTUNNUS) tiedoston ja käyttää sitä päästäkseen käsiksi wallet.dat tiedoston sisältämiin osoitteisiin. Kun suljet ZelTreZin Täyden Noodin, kolikon daemon ja muut Täyden Noodin prosessit sulkeutuvat. Zeltrez salaa sitten wallet.dat tiedoston salausavaimella ja tallentaa  tiedoston wallet.datKÄYTTÄJÄTUNNUS. Tämä mahdollistaa usean käyttäjän tilin samalla tietokoneella.
+6.21	Kuinka löydän Läpinäkyvän tai Suojatun osoitteen Yksityisen Avaimen? - Mene Yhteystietoihin ja löydät Yksityisen Avaimen linkin jokaiselle osoitteelle. 
+6.22	Kuinka paljon tallennustilaa ZelTreZ tarvitsee? - Perusasennus vaatii vähemmän kuin 100 MB levytilaa.
+6.23	Kuinka paljon levytilaa tarvitaan, kun kaikki kolikot ovat käytössä? - Noin 60 megatavua, ellei yhtään täyttä noodia ole aktivoitu. Kolikosta riippuen täysien noodien latausta ei suositella, ellet tarvitse yksityisiä Z-osoitteita käyttöösi. Zelcashin Täysi Noodi vaatii noin 700 megatavua tällä hetkellä, Zcashin Täysi Noodi noin 2 gigatavua. Bitcoinin Täysi Noodi tarvitsee jopa 300 gigatavua tallennustilaa.
+6.24	Kuinka varmistan (salaan ja varmuuskopioin) lompakkoni? - Lompakko salataan ja varmuuskopioidaan automaattisesti. Ainoa hetki, jolloin lompakko on salaamaton, on kun olet kirjautuneena lompakkoon. Siten on suositeltavaa sulkea Zeltrez silloin kun sitä ei käytetä, koska suljettaessa Zeltrez salaa ja varmuuskopioi tilisi.
+6.25	Kuinka voin käyttää pörssi-ominaisuutta? - Tällä hetkellä ZelDexiä ei ole saatavilla Zeltrezissä. ZelDex on kehitteillä ja se on saatavilla vuoden 2018 viimeisellä neljänneksellä - vuoden 2019 ensimmäisellä neljänneksellä. ZelDex tulee olemaan helppo ja yksinkertainen hajautettu pörssi, joka tulee sisältymään ZelTreZiin ja siitä tullaan julkaisemaan myös selainkäyttöliittymä.  
+6.26	Unohdin  käyttäjätunnukseni / salasanani. Kuinka voin palauttaa ne? - ZelTreZ ei säilytä kopiota salaamattomasta salasanasta paikallisesti eikä etäyhteyden kautta. Tämän ominaisuuden vuoksi ei ole mahdollista palauttaa salasanaa eikä muuttaa sitä. Kun menetät (tai unohdat) käyttäjätunnuksen tai salasanan, menetät lompakkosi pysyvästi. Siksi on TÄRKEÄÄ ja EHDOTONTA, että pidät kopioita käyttäjätunnuksestasi ja salasanastasi turvallisessa paikassa.
+6.27	Mikä on Sovellukset-painike? - Tämä osio on varattu hajautettujen sovelluksien (dApps) kaupalle. Pidä silmällä tätä osiota. 
+6.28	En vieläkään löydä vastausta jota etsin, apua! - Autamme mielellämme. Voit tavoittaa meidät Discordin, Twitterin, Redditin tai sähköpostin kautta.
+
+7	***Sivupalkki***
+7.1	Ota Yhteyttä
+7.2	Seuraa Meitä - Ota Yhteyttä
+7.3	Kehittäjien tuki - Miten lisään kolikkoni ZelTreZiin? - Jos haluat lisätä kolikkosi ZelTreZiin, täytä hakemus täällä
+7.4	Asennusohjeet - Kuinka asennan ZelTreZin MacOSiin? Seuraa tätä ohjetta. 
+7.5	Kuinka lisään tietoturva-poikkeuksen Avastille? - Seuraa tätä ohjetta.
